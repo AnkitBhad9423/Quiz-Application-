@@ -4,6 +4,10 @@ Welcome to the Quiz Application built using Flutter and Dart! This application a
 
 <img src="https://github.com/Ankzcoder/Quiz-Application-/blob/master/final_UI/indexPage.png" alt="Index Page" width="200" height="400">
 
+<img src="https://github.com/Ankzcoder/Quiz-Application-/blob/master/final_UI/ques_page.png" alt="Question Page" width="200" height="400">
+
+<img src="https://github.com/Ankzcoder/Quiz-Application-/blob/master/final_UI/result_page.png" alt="Result Page" width="200" height="400">
+
 
 
 ## Features ✨
