@@ -2,11 +2,11 @@
 
 Welcome to the Quiz Application built using Flutter and Dart! This application allows users to create quizzes, modify existing quizzes, and take quizzes to get their scores and correct answers.
 
-<img src="https://github.com/Ankzcoder/Quiz-Application-/blob/master/final_UI/indexPage.png" alt="Index Page" width="400" height="400">
+<img src="https://github.com/Ankzcoder/Quiz-Application-/blob/master/final_UI/indexPage.png" alt="Index Page" width="100" height="400">
 
-<img src="https://github.com/Ankzcoder/Quiz-Application-/blob/master/final_UI/ques_page.png" alt="Question Page" width="400" height="400">
+<img src="https://github.com/Ankzcoder/Quiz-Application-/blob/master/final_UI/ques_page.png" alt="Question Page" width="100" height="400">
 
-<img src="https://github.com/Ankzcoder/Quiz-Application-/blob/master/final_UI/result_page.png" alt="Result Page" width="400" height="400">
+<img src="https://github.com/Ankzcoder/Quiz-Application-/blob/master/final_UI/result_page.png" alt="Result Page" width="100" height="400">
 
 ## Features ✨
 
